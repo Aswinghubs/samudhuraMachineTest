@@ -116,12 +116,6 @@ No login credentials are required if the application opens directly to the dashb
 
 Application screenshots are available in the `screenshots/` directory.
 
-- Dashboard
-- Visitor registration
-- Visitor list
-- Visitor details and QR code
-- QR scanner
-- Check-in/check-out status
 
 ## Known Limitations
 
